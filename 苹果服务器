@@ -1,0 +1,7 @@
+echo "# --" >> README.md
+git init
+git添加README.md
+git commit -m "first commit"
+git分支-M main
+git远程添加来源 https://github.com/sjwjjsw/--.git
+git push -u origin main
